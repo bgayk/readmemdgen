@@ -68,7 +68,7 @@ function loadLicenseInfo() {
     license.licenseLink = '';
     licenses.push(JSON.parse(JSON.stringify(license)));
 
-    console.log(licenses);
+    // console.log(licenses);
 }
 
 function loadQuestions() {
@@ -132,7 +132,7 @@ function loadQuestions() {
     question.choices = licenseOptions;
     projectQuestions.push(JSON.parse(JSON.stringify(question)));
 
-    console.log(projectQuestions);
+    // console.log(projectQuestions);
 
     buildPrompts();
 }
@@ -153,13 +153,13 @@ function buildPrompts() {
         prompts.push(JSON.parse(JSON.stringify(prompt))); 
     }        
     
-    console.log(prompts);
+    // console.log(prompts);
 
 }
 
-// TODO: Create a function to write README file
+// wrote data to a file 
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => {console.log(err)});
+    fs.writeFile(fileName, data, (err) => err ? console.error(err) : console.log('Success!'));
 }
 
 

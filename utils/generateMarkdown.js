@@ -58,7 +58,7 @@ function generateMarkdown(data, license) {
   ${data.projectTest} \n  
 
   ## Questions \n
-  ${data.projectGithub} \n
+  https://github.com/${data.projectGithub} \n
 
   ${data.projectEmail} \n
 
