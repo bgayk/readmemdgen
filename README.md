@@ -2,7 +2,7 @@
 
   ## Description 
 
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 	
+  ![License](https://img.shields.io/badge/License-MIT-yellow.svg) 	
 
   2 
 
@@ -34,7 +34,7 @@
 
   ## License 
  
-  [Apache](https://opensource.org/licenses/Apache-2.0) 
+  [MIT](https://opensource.org/licenses/MIT) 
 
 
 
@@ -50,7 +50,7 @@
 
   ## Questions 
 
-  7 
+  https://github.com/7 
 
 
   8 
