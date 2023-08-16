@@ -1,10 +1,10 @@
-# 1 
+# readMeMdGen - NodeJS README Markdown Generator 
 
   ## Description 
 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg) 	
 
-  2 
+  Application will allow a developer or user that has NodeJS Installed to generate a markdown README file containig pertinent project documentation and a table of contents. 
 
 
   ## Table of Contents 
@@ -24,12 +24,12 @@
 
   ## Installation 
 
-  3 
+   NodeJS must be accessible at the command line and the inquirer package (v8.2.4) must be installed in the node_modules direcory in the project directory using npm (npm install inquirer@8.2.4). 
 
 
   ## Usage 
 
-  4 
+  To generate a README.MD markdown file after prompting the user for pertinent project information. 
 
 
   ## License 
@@ -40,20 +40,20 @@
 
   ## Contributing 
 
-  5 
+  Not accepting contributions. This is an assignment for class and will not be maintained after grading. 
 
 
   ## Tests 
 
-  6 
+  Open your terminal session and change directories to the directory containing the project and index.js file, run the program: 'node index.js', Answer prompts, and verify that a newly generated README.MD file is stored in your current directory. 
   
 
   ## Questions 
 
-  https://github.com/7 
+  GitHub Address: https://github.com/bgayk 
 
 
-  8 
+           Email: gayk.william@gmail.com 
 
 
 
