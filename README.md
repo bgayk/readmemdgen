@@ -6,6 +6,10 @@
 
   Application will allow a developer or user that has NodeJS Installed to generate a markdown README file containig pertinent project documentation and a table of contents. 
 
+  Code Repository: https://github.com/bgayk/readmemdgen
+
+  Application URL: This is a nodeJS application and is not deployed to a web server. The user can clone the repository and run the application from the command line after installing nodeJS and the inquirer package.
+  
 
   ## Table of Contents 
 
